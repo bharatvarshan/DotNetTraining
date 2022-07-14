@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1 style="text-align:center "> Welcome! Register Here </h1>
+
+
+@model UserModel;
+<div style="text-align:center">
+@using (Html.BeginForm("GetUsers", "User", FormMethod.Post))
+    {
+        @Html.Label("First Name:")<br/>
+        @Html.TextBoxFor(m=>m.FirstName);<br />
+        @Html.Label("Last Name:")<br/>
+        @Html.TextBoxFor(m=>m.LastName);<br />
+        @Html.Label("Age")<br/>
+        @Html.TextBoxFor(m=>m.Age);<br />
+        <br />
+        <input type="submit" value="Save">
+    }
+</div>

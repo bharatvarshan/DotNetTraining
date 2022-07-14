@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormApplicationDemo/1.0.0": {
+        "runtime": {
+          "FormApplicationDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormApplicationDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
