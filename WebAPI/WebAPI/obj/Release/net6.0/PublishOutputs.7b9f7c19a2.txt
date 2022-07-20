@@ -1,0 +1,17 @@
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\WebAPI.exe
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\WebAPI.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\WebAPI.runtimeconfig.json
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\WebAPI.pdb
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\presidio\dotNet-Training\WebAPI\WebAPI\obj\Release\net6.0\PubTmp\Out\WebAPI.deps.json
