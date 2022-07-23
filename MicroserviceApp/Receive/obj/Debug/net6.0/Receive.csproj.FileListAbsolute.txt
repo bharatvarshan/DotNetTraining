@@ -1,0 +1,17 @@
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\bin\Debug\net6.0\Receive.exe
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\bin\Debug\net6.0\Receive.deps.json
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\bin\Debug\net6.0\Receive.dll
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\bin\Debug\net6.0\Receive.pdb
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.dll
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\refint\Receive.dll
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.pdb
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+D:\presidio\dotNet-Training\MicroserviceApp\Receive\obj\Debug\net6.0\ref\Receive.dll

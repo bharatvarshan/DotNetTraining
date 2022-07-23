@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NxdVCOM+V1hZYRvEiaajs8ppIO4PwkjxfCw1Jsf5Eh4=",
+  "Source": "MicroserviceApp",
+  "BasePath": "_content/MicroserviceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

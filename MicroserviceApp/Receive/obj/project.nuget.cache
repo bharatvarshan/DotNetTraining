@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWsmxV1fRrwWPjaLQxXSK1BCMsk/ydh5brCHmepcjSPDJGcIfYmca52j/cYgF/6/agC4DmLNszgrBnC+qL/NEw==",
+  "success": true,
+  "projectFilePath": "D:\\presidio\\dotNet-Training\\MicroserviceApp\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VC\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

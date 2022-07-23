@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPohszvmd/2Kg8nDD+sRcnnzi4VfCPAA8HgETdB7K7ja9QvY+o900LVxmloWuEZkUAtD2OSmUGZHTjLVAOZ42Q==",
+  "success": true,
+  "projectFilePath": "D:\\presidio\\dotNet-Training\\MicroserviceApp\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VC\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
